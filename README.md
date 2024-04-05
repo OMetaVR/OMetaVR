@@ -1,21 +1,38 @@
 # Hi, I'm Meta 👋
 
-I'm a 19-year-old freelance graphic designer, 3D modeler, and coding enthusiast with a passion for front-end development and full-stack solutions.
+I'm a 19-year-old freelance graphic designer, 3D modeler, and coding enthusiast. I have a passion for front-end development but also enjoy full-stack development.
 
-## 🎨 Skills
+## 🎨 Graphic Design Skills
 
-- **Graphic Design**: Photoshop, Adobe Illustrator, After Effects, Premier Pro, Blender
-- **Coding**: Python, HTML, JavaScript, Node.js, SQL, PHP, LUA, C#
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe After Effects
+- Adobe Premiere Pro
+- Blender (for 2D and 3D graphic design)
 
-## 💻 Projects
+## 💻 Programming Skills
 
-- **Project 1**: A brief description of Project 1. [Link to Project 1](#)
-- **Project 2**: A brief description of Project 2. [Link to Project 2](#)
+- Python
+- HTML
+- JavaScript
+- Node.js
+- SQL
+- PHP
+- Lua
+- C# (some experience)
 
-## 🌐 Contact
+## 📬 Contact Me
 
 - Discord: MMeta
-- Email: Metavr@yahoo.com
-- Website: [https://www.meternalized.online](https://www.meternalized.online)
+- Business Email: Metavr@yahoo.com
+- Website: [meternalized.online](https://www.meternalized.online) (links to my socials)
 
-Feel free to reach out if you're interested in collaborating or just want to chat!
+## 🚀 Projects
+
+I've worked on various projects as a freelancer, combining my graphic design and programming skills to create engaging and interactive experiences. From designing eye-catching visuals to developing responsive web applications, I enjoy taking on new challenges and bringing ideas to life.
+
+Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect! I'm always excited to meet fellow creators and developers.
+
+---
+
+Let's build something amazing together! 😄
