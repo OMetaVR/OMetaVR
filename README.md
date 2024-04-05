@@ -1,6 +1,6 @@
-# Hi, I'm Meta 👋
+# Hi, I'm Meta 
 
-I'm a 19-year-old freelance graphic designer, 3D modeler, and coding enthusiast. I have a passion for front-end development but also enjoy full-stack development.
+I'm a 19-year-old freelance graphic designer, 3D modeler, and coding enthusiast. I'm a full stack developer with a passion for front-end development.
 
 ## 🎨 Graphic Design Skills
 
@@ -8,7 +8,7 @@ I'm a 19-year-old freelance graphic designer, 3D modeler, and coding enthusiast.
 - Adobe Illustrator
 - Adobe After Effects
 - Adobe Premiere Pro
-- Blender (for 2D and 3D graphic design)
+- Blender (for 2D/3D graphic design + animation)
 
 ## 💻 Programming Skills
 
@@ -29,10 +29,10 @@ I'm a 19-year-old freelance graphic designer, 3D modeler, and coding enthusiast.
 
 ## 🚀 Projects
 
-I've worked on various projects as a freelancer, combining my graphic design and programming skills to create engaging and interactive experiences. From designing eye-catching visuals to developing responsive web applications, I enjoy taking on new challenges and bringing ideas to life.
+As a freelancer, I've had the opportunity to work on a wide range of projects that allowed me to combine my love for graphic design and programming. Whether it's creating visually appealing designs or building responsive web applications, I find joy in turning my ideas into reality.
 
-Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect! I'm always excited to meet fellow creators and developers.
+If you have any questions, want to collaborate on a project, or simply want to ask me some questions, don't hesitate to reach out! I'm always happy to meet new people and discuss ideas.
 
 ---
 
-Let's build something amazing together! 😄
+Let's create something cool together! 🙌
