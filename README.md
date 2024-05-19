@@ -25,7 +25,7 @@ I'm a 19-year-old freelance graphic designer, 3D modeler, and coding enthusiast.
 
 - Discord: MMeta
 - Business Email: Metavr@yahoo.com
-- Website: [meternalized.online](https://www.meternalized.online) (links to my socials)
+- ~~Website: [meternalized.online](https://www.meternalized.online) (links to my socials)~~ (Currently down because I didn't pay my hoster 😍)
 
 ## 🚀 Projects
 
