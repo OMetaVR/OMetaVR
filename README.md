@@ -11,8 +11,6 @@ As a full stack developer, I enjoy working on both the front-end and back-end as
 
 When I'm not coding or designing, you can often find me exploring my other passions. I have a love for music and enjoy singing in my free time. Additionally, I have interests in woodworking and 3D printing, which allow me to enjoy crafting unique pieces and useful tools that combine functionality and aesthetic appeal!
 
-I believe that my diverse skill set and interests allow me to bring a fresh perspective to my work. I'm always eager to learn new technologies and techniques to enhance my abilities as a designer and developer.
-
 If you have any exciting projects or ideas, I'd love to collaborate and bring them to life. Feel free to reach out to me through the contact information provided below. I look forward to hearing from you!
 
 ## 🎨 Graphic Design Skills
