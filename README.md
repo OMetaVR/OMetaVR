@@ -37,5 +37,6 @@ As a freelancer, I've had the opportunity to work on a wide range of projects th
 If you have any questions, want to collaborate on a project, or simply want to ask me some questions, don't hesitate to reach out! I'm always happy to meet new people and discuss ideas.
 
 ---
-
+<p align="center">
 Let's create something cool together! 🙌
+</p>
