@@ -1,4 +1,4 @@
-# Hi, I'm
+# Hi, I'm:
 <p align="center">
   <img src="./Assets/DC_banner.gif" />
 </p>
