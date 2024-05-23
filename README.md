@@ -1,6 +1,6 @@
 # Hi, I'm
 <p align="center">
-  <img src="DC_Banner.gif" />
+  <img src="./Assets/DC_banner.gif" />
 </p>
 
 I'm a 19-year-old freelance graphic designer, 3D modeler, and coding enthusiast. I'm a full stack developer with a passion for front-end development.
