@@ -1,4 +1,5 @@
-# Hi, I'm Meta 
+# Hi, I'm
+![Meta Banner](DC_Banner.png)
 
 I'm a 19-year-old freelance graphic designer, 3D modeler, and coding enthusiast. I'm a full stack developer with a passion for front-end development.
 
