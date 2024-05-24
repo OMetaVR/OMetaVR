@@ -1,6 +1,7 @@
-# Hi, I'm:
+# <img src="./Assets/GithubTyping.gif" width="400" />
+
 <p align="center">
-  <img src="./Assets/DC_banner.gif" />
+  <img src="./Assets/MetaTPTop.gif" />
 </p>
 
 ## 🙋‍♂️ About Me
@@ -46,11 +47,23 @@ If you have any questions, want to collaborate on a project, or simply want to a
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMetaVR&show_icons=true&theme=radical" alt="My GitHub Stats" />
-</p>
+<a href="https://github.com/OMetaVR">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OMetaVR&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/OMetaVR">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OMetaVR&layout=compact&theme=radical&card_width=320" />
+</a>
 
 ---
+<div align="center">
+  <img src="./Assets/MetaTPTop.gif" width="200" />
+  <br>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; font-size: 24px;">
+    Let's create something cool together! 🙌
+  </div>
+</div>
+
 <p align="center">
-Let's create something cool together! 🙌
+  <img src="./Assets/MetaTPBottom.gif" />
 </p>
