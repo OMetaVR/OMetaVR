@@ -48,11 +48,11 @@ If you have any questions, want to collaborate on a project, or simply want to a
 ## 📊 GitHub Stats
 
 <a href="https://github.com/OMetaVR">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OMetaVR&show_icons=true&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=OMetaVR&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/OMetaVR">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OMetaVR&layout=compact&theme=radical&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OMetaVR&layout=compact&theme=radical&card_width=320" />
 </a>
 
 ---
