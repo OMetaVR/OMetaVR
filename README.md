@@ -49,10 +49,10 @@ If you have any questions, want to collaborate on a project, or simply want to a
 
 <div align="center" style="display: flex; justify-content: space-between; width: 80%; margin: 0 auto;">
   <a href="https://github.com/OMetaVR">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=OMetaVR&show_icons=true&theme=radical" />
+    <img height=175 src="https://github-readme-stats.vercel.app/api?username=OMetaVR&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/OMetaVR">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=OMetaVR&layout=compact&theme=radical&card_width=320" />
+    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs?username=OMetaVR&layout=compact&theme=radical&card_width=320" />
   </a>
 </div>
 
