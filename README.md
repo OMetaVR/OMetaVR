@@ -66,12 +66,14 @@ If you have any questions, want to collaborate on a project, or simply want to a
 </div>
 
 <div align="center">
-🎵 Currently Vibing To
+## 🎵 Currently Vibing To
 
 </div>
 <div align="center">
 <img src="https://api-testing-jg30.onrender.com/track-info" width="300" alt="Now Playing">
 </div>
+
+<div height="30"> </div>
 
 <p align="center">
   <img src="./Assets/MetaTPBottom.gif" />
