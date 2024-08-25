@@ -67,7 +67,7 @@ If you have any questions, want to collaborate on a project, or simply want to a
 <div style="height: 30px;"></div>
 <div align="center">
   <h2>🎵 Currently Vibing To</h2>
-  <img src="https://api-testing-jg30.onrender.com/now-playing" width="300" alt="Now Playing">
+  <img src="https://api-testing-jg30.onrender.com/now-playing?" width="300" alt="Now Playing">
 </div>
 <div style="height: 30px;"></div>
 
