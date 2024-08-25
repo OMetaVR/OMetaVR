@@ -66,7 +66,7 @@ If you have any questions, want to collaborate on a project, or simply want to a
 </div>
 
 <div align="center">
-## 🎵 Currently Vibing To
+---🎵 Currently Vibing To---
 
 </div>
 <div align="center">
