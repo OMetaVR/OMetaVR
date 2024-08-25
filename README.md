@@ -70,8 +70,8 @@ If you have any questions, want to collaborate on a project, or simply want to a
   <img src="https://api-testing-jg30.onrender.com/now-playing?v=1" width="600" alt="Now Playing">
   <a href="https://open.spotify.com/user/9cm94dpduyxahjtrnyam5z1wl?si=55560524c2a547e7">
   </a>
+  <h5 style="color: #8f8f8f; font-size: 0.9em;">*this updates live with the last song I listened to on Spotify*</h5>
 </div>
-<p style="color: #999999; font-size: 0.9em;">*this updates live with the last song I listened to on Spotify*</p>
 <div style="height: 30px;"></div>
 
 <p align="center">
