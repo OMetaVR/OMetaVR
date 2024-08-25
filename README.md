@@ -71,6 +71,7 @@ If you have any questions, want to collaborate on a project, or simply want to a
   <a href="https://open.spotify.com/user/9cm94dpduyxahjtrnyam5z1wl?si=55560524c2a547e7">
   </a>
 </div>
+<p style="color: #999999; font-size: 0.9em;">*this updates live with the last song I listened to on Spotify*</p>
 <div style="height: 30px;"></div>
 
 <p align="center">
