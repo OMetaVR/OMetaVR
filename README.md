@@ -65,6 +65,11 @@ If you have any questions, want to collaborate on a project, or simply want to a
   </div>
 </div>
 
+<div align="center">
+🎵 Currently Vibing To
+<img src="https://api-testing-jg30.onrender.com/now-playing" width="256" height="64" alt="Now Playing">
+</div>
+
 <p align="center">
   <img src="./Assets/MetaTPBottom.gif" />
 </p>
