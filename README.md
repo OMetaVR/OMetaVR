@@ -71,7 +71,7 @@ If you have any questions, want to collaborate on a project, or simply want to a
   <a href="https://open.spotify.com/user/9cm94dpduyxahjtrnyam5z1wl?si=55560524c2a547e7">
   </a>
   <h5 style="color: #8f8f8f; font-size: 0.9em;">*This updates live with the last song I listened to on Spotify*</h5>
-  <h6 style="color: #8f8f8f; font-size: 0.9em;">[You can see this project here!](https://github.com/OMetaVR/Spotify-recently-played-readme-status)</h6>
+  <h6 style="color: #8f8f8f; font-size: 0.9em;"><a href="https://github.com/OMetaVR/Spotify-recently-played-readme-status">You can see this project here!</a></h6>
 </div>
 <div style="height: 30px;"></div>
 
