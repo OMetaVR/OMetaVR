@@ -67,9 +67,10 @@ If you have any questions, want to collaborate on a project, or simply want to a
 <div style="height: 30px;"></div>
 <div align="center">
   <h2>🎵 Currently Vibing To 🎵</h2>
-  <img src="https://spotify.meternalized.online/nowplaying.png?t=01%2F04%2F2025%203%3A10%20AM" width="600" alt="Now Playing">
-  <a href="https://open.spotify.com/user/9cm94dpduyxahjtrnyam5z1wl?si=55560524c2a547e7">
+  <a href="https://github.com/OMetaVR/ReadMe-RPCs">
+    <img src="https://spotify.meternalized.online/nowplaying.png?t=01%2F04%2F2025%203%3A10%20AM" width="600" alt="Now Playing">
   </a>
+  <a href="https://open.spotify.com/user/9cm94dpduyxahjtrnyam5z1wl?si=55560524c2a547e7"></a>
   <h5 style="color: #8f8f8f; font-size: 0.9em;">*This updates live with the last song I listened to on Spotify*</h5>
   <h6 style="color: #8f8f8f; font-size: 0.9em;"><a href="https://github.com/OMetaVR/Spotify-recently-played-readme-status">You can see this project here!</a></h6>
 </div>
