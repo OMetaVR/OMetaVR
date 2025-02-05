@@ -45,6 +45,8 @@ As a freelancer, I've had the opportunity to work on a wide range of projects th
 
 If you have any questions, want to collaborate on a project, or simply want to ask me some questions, don't hesitate to reach out! I'm always happy to meet new people and discuss ideas.
 
+Last note, many of my repos are private, I'm sorry I can't share them with you!
+
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: space-between; width: 80%; margin: 0 auto;">
