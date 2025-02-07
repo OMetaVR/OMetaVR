@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hey there! I'm a passionate 19-year-old freelance graphic designer, 3D modeler, and coding enthusiast. I discovered my love for design and programming at a young age and have been honing my skills ever since.
+Hey there! I'm a passionate 20-year-old freelance graphic designer, 3D modeler, and coding enthusiast. I discovered my love for design and programming at a young age and have been honing my skills ever since.
 
 As a full stack developer, I enjoy working on both the front-end and back-end aspects of web development, my preference is with front-end development though. I find great satisfaction in creating visually appealing and user-friendly interfaces while ensuring the underlying functionality is robust and efficient.
 
