@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./Assets/MetaTPTop.gif" />
+  <img src="./Assets/MetaTPTop.gif" width="1000"/>
 </p>
 
 <div align="center">
@@ -21,5 +21,5 @@
 <div style="height: 30px;"></div>
 
 <p align="center">
-  <img src="./Assets/MetaTPBottom.gif" />
+  <img src="./Assets/MetaTPBottom.gif" width="1000"/>
 </p>
